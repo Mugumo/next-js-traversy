@@ -1,2 +1,3 @@
 # next-js-traversy
-NextJs Crash crash course with Brad Traversy
+NextJs Crash crash course with Brad Traversy:
+[Link to Video](https://youtu.be/mTz0GXj8NN0)
