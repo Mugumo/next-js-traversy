@@ -1,10 +1,13 @@
 import { readFileSync } from 'fs'
 import React from 'react'
+import styles from '../../styles/LAyout.module.css'
 
-const MainLayout = () => {
+const MainLayout = ({children}) => {
     return (
-        <div>
-
+        <div className={styles.container}>
+            <main className={styles.main}>
+                {children}
+            </main>
         </div>
     )
 }
