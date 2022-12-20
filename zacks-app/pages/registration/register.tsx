@@ -1,8 +1,8 @@
 const register = () => {
     return(
-        <div>
+        <h1>
         Register for the Referall Program 
-        </div>
+        </h1>
     )
 }
 

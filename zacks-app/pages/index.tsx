@@ -6,6 +6,10 @@ import styles from '../styles/Home.module.css'
 const Home: NextPage = () => {
   return (
     <div>
+      <Head>
+        <title>Zack's NextJs Experiment</title>
+        <meta name='keywords' content='crash course, nextjs, preact, typescript' />
+      </Head>
       Welcome to Next Js
     </div>
   )
